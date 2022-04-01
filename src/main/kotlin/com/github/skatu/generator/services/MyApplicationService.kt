@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.skatu.generator.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.skatu.generator.MyBundle
 
 class MyApplicationService {
 
